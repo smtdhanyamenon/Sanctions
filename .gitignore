@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.venv/
+venv/
+env/
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data analysis outputs
+*.log
+*.csv  # Optionally ignore generated CSV files
+*.png
+*.html
+*.pdf
+data/sanctions_cleaned.csv
+data/*.png
+data/*.html
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual environments
+*.venv
+venv/
+env/
+
+# Large dataset (optional, if you don't want to track the CSV)
+data/sanctions_dataset.csv
