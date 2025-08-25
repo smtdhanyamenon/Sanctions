@@ -1,6 +1,6 @@
 # Sanctions Analysis Repository
 
-This repository contains tools for analyzing sanction typology and sender-target dynamics using the GIGA Sanctions Dataset.
+This repository contains tools for analyzing sanction typology and sender-target dynamics using the Sanctions Dataset.
 
 ## Repository Structure
 - `data/`: Contains the dataset (`sanctions_dataset.csv`).
