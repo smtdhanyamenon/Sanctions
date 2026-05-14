@@ -1,4 +1,4 @@
-# Sanctions Analysis Repository
+# Sanctions Analysis
 
 This repository contains tools for analyzing sanction typology and sender-target dynamics using the Sanctions Dataset.
 
